@@ -10,10 +10,10 @@ A Simple ToDo App is built using the MVC Architecture, implemented local "author
 
 # How It's Made:
 
-I made this using the MVC structure in Node.js with Express and MongoDB. I used EJS for embedding JavaScript into my HTML layouts, mongoose for list and user schemas for the DB, passport & passport-local for "authorization".
+I made this using the MVC structure in Node.js with Express and MongoDB. I used EJS for templating HTML with JavaScript, mongoose for list and user schemas for the DB, passport & passport-local for "authorization".
 
 ## Tech used: 
-**HTML, CSS, JavaScript, Node.js, Bootstrap**
+**HTML/EJS, CSS, JavaScript, Node.js, Bootstrap**
 
 ## Packages/Dependencies used 
 
